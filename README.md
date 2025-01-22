@@ -52,4 +52,28 @@
 - [9.5 Домашнее задание по теме "Итераторы"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_5.py)
 - [9.6 Домашнее задание по теме "Генераторы"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_6.py)
 - [9.7 Домашнее задание по теме "Декораторы"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_7.py)
-### *Модуль 10. Мультипоточность*
+### *Модуль 10. Мультипоточность. Многопроцессность*
+- [10.1 Домашнее задание по теме "Введение в потоки"](https://github.com/allabergenovvyacheslav/module_10/blob/main/module_10_1.py)
+- [10.2 Домашнее задание по теме "Потоки на классах"](https://github.com/allabergenovvyacheslav/module_10/blob/main/module_10_2.py)
+- [10.3 Домашнее задание по теме "Блокировки и обработка ошибок"](https://github.com/allabergenovvyacheslav/module_10/blob/main/module_10_3.py)
+- [10.4 Домашнее задание по теме "Очереди для обмена данными между потоками."](https://github.com/allabergenovvyacheslav/module_10/blob/main/module_10_4.py)
+- [10.5 Домашнее задание по теме "Многопроцессное программирование"](https://github.com/allabergenovvyacheslav/module_10/blob/main/module_10_5.py)
+### *Модуль 11. Стандартные и сторонние библиотеки Python*
+- [11.1 Домашнее задание по теме "Обзор сторонних библиотек Python"](https://github.com/allabergenovvyacheslav/module_11/blob/main/module_11_1.py)
+- [11.2 Домашнее задание по теме "Виртуальные окружения"](https://drive.google.com/file/d/13oYexr66EGtWaJ_o0xZ-58Nq9TFqrxzM/view)
+- [11.3 Домашнее задание по теме "Интроспекция"](https://github.com/allabergenovvyacheslav/module_11/blob/main/module_11_2.py)
+### *Модуль 12. Поддержка цикла разработки*
+- [12.1 Домашнее задание по теме "Простые Юнит-Тесты"](https://github.com/allabergenovvyacheslav/module_12_1/blob/main/test_runner.py)
+- [12.2 Домашнее задание по теме "Методы Юнит-тестирования"](https://github.com/allabergenovvyacheslav/module_12_1/blob/main/test_runner_and_tournament.py)
+- [12.3 Домашнее задание по теме "Систематизация и пропуск тестов - 1".](https://github.com/allabergenovvyacheslav/module_12_1/blob/main/tests_12_3.py)
+- [12.3 Домашнее задание по теме "Систематизация и пропуск тестов - 2".](https://github.com/allabergenovvyacheslav/module_12_1/blob/main/suite_12_3.py)
+- [12.4 Домашнее задание по теме "Логирование - 1"](https://github.com/allabergenovvyacheslav/module_12_1/blob/main/tests_12_4.py)
+- [12.4 Домашнее задание по теме "Логирование - 2"](https://github.com/allabergenovvyacheslav/module_12_1/blob/main/runner_tests.log)
+### *Модуль 13. Основы асинхронного программирования на базе фреймворка aiogram*
+- [13.1 Домашнее задание по теме "Асинхронность на практике"](https://github.com/allabergenovvyacheslav/module_13/blob/main/module_13_1.py)
+- [13.2 Домашнее задание по теме "Хендлеры обработки сообщений".](https://github.com/allabergenovvyacheslav/module_13/blob/main/main.py)
+- [13.3 Домашнее задание по теме "Методы отправки сообщений".](https://github.com/allabergenovvyacheslav/module_13/blob/main/main.py)
+- [13.4 Домашнее задание по теме "Машина состояний".](https://github.com/allabergenovvyacheslav/module_13/blob/main/tlelegram_bot.py)
+- [13.5 Домашнее задание по теме "Клавиатура кнопок".](https://github.com/allabergenovvyacheslav/module_13/blob/main/telegram_bot_13_5.py)
+- [13.6 Домашнее задание по теме "Инлайн клавиатуры".](https://github.com/allabergenovvyacheslav/module_13/blob/main/telegram_bot_13_6.py)
+### *Модуль 14. Библиотека для работы с данными*
