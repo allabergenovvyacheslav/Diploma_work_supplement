@@ -1,7 +1,7 @@
 <h2>Практические задания</h2>
 <h3>Модуль 1. Практика GIT. Базовые структуры данных</h3>  
 <ul>
-  <li><a href 'https://github.com/allabergenovvyacheslav/homework3/blob/main/main.py'>Практическая работа по уроку "Динамическая типизация"</a></li>
+  <li><a href 'https://github.com/allabergenovvyacheslav/homework3/blob/main/main.py'>1.1 Практическая работа по уроку "Динамическая типизация"</a></li>
   <li><a href 'https://github.com/allabergenovvyacheslav/homework2/blob/main/main.py'>Практическое задание по работе в Pycharm - "Переменные".</a></li>
   <li><a href 'https://github.com/allabergenovvyacheslav/lesson3'>Практическое задание по уроку "Строки и индексация строк"</a></li>
   <li><a href 'https://github.com/allabergenovvyacheslav/homework4'>Практическая работа по уроку "Организация программ и методы строк."</a></li>
