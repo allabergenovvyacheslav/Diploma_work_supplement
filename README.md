@@ -1,3 +1,4 @@
+# *Urban lessons*
 ## *Практические задания*
 ### *Модуль 1. Практика GIT. Базовые структуры данных*  
 - [1.1 Практическая работа по уроку "Динамическая типизация"](https://github.com/allabergenovvyacheslav/homework3/blob/main/main.py)
@@ -41,5 +42,14 @@
 - [7.5 Домашнее задание по теме "Файлы в операционной системе".](https://github.com/allabergenovvyacheslav/module_7_5/blob/main/module_7_5.py)
 ### *Модуль 8. Исключения*
 - [8.1 Домашнее задание по теме "Try и Except"](https://github.com/allabergenovvyacheslav/module_8_1/blob/main/module_8_1.py)
-
-
+- [8.2 Домашнее задание по теме "Сложные моменты и исключения в стеке вызовов функции"](https://github.com/allabergenovvyacheslav/module_8_2/blob/main/module_8_2.py)
+- [8.4 Домашнее задание по теме "Создание исключений"](ttps://github.com/allabergenovvyacheslav/module_8_3/blob/main/module_8_3.py)
+### *Модуль 9. Инструменты функционального программирования*
+- [9.1 Домашнее задание по теме "Введение в функциональное программирование"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_1.py)
+- [9.2 Домашнее задание по теме "Списковые, словарные сборки"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_2.py)
+- [9.3 Домашнее задание по теме "Генераторные сборки"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_3.py)
+- [9.4 Домашнее задание по теме "Создание функций на лету"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_4.py)
+- [9.5 Домашнее задание по теме "Итераторы"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_5.py)
+- [9.6 Домашнее задание по теме "Генераторы"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_6.py)
+- [9.7 Домашнее задание по теме "Декораторы"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_7.py)
+### *Модуль 10. Мультипоточность*
