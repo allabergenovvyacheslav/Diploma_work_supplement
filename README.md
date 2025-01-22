@@ -43,7 +43,7 @@
 ### *Модуль 8. Исключения*
 - [8.1 Домашнее задание по теме "Try и Except"](https://github.com/allabergenovvyacheslav/module_8_1/blob/main/module_8_1.py)
 - [8.2 Домашнее задание по теме "Сложные моменты и исключения в стеке вызовов функции"](https://github.com/allabergenovvyacheslav/module_8_2/blob/main/module_8_2.py)
-- [8.4 Домашнее задание по теме "Создание исключений"](ttps://github.com/allabergenovvyacheslav/module_8_3/blob/main/module_8_3.py)
+- [8.4 Домашнее задание по теме "Создание исключений"](https://github.com/allabergenovvyacheslav/module_8_3/blob/main/module_8_3.py)
 ### *Модуль 9. Инструменты функционального программирования*
 - [9.1 Домашнее задание по теме "Введение в функциональное программирование"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_1.py)
 - [9.2 Домашнее задание по теме "Списковые, словарные сборки"](https://github.com/allabergenovvyacheslav/module_9_1/blob/main/module_9_2.py)
