@@ -86,3 +86,17 @@
 - [14.5 Домашнее задание по теме "Написание примитивной ORM - 2"](https://github.com/allabergenovvyacheslav/module_14/blob/main/crud_functions.py)
 ### *Модуль 15. Нейронные сети и машинное зрение*
 - [15.1 Домашнее задание по теме "Знакомство и работа с GoogleColab"](https://colab.research.google.com/drive/1HmRXWlUzYnEg8l252cIDooPDEryCu47X?usp=sharing)
+- [15.2 Домашнее задание по теме "Основные концепции и терминология ИИ"](https://colab.research.google.com/drive/1etReTepmb3jQctf4ylC5gp1H3nILX3qC?usp=sharing)
+- [15.3 Домашнее задание по теме "Обзор основных направлений ИИ"](https://colab.research.google.com/drive/1vdaD0vxSPQa9Fds2UO1asIljQLCn6jHj?usp=sharing)
+- [15.4 Домашнее задание по теме "Основы машинного обучения"](https://colab.research.google.com/drive/1uYuSbJrsDSi56uFHv0vMG66nNBMmO6BI?usp=sharing)
+- [15.5 Домашнее задание по теме "Обучение с учителем и без учителя"](https://colab.research.google.com/drive/19BLms-IVKKWR2HiB9c-UrPyazapawWca?usp=sharing)
+- [15.6 Домашнее задание по теме "Нейронные сети и глубокое обучение"](https://colab.research.google.com/drive/1jDRykxsR81WjqozkKtj0--H-WWYjfVfY?usp=sharing)
+- [15.7 Домашнее задание по теме "Обучение с подкреплением"](https://colab.research.google.com/drive/1tZzMEh555kmbrM4yiEbyM2fm596hgRAy?usp=sharing)
+### *Модуль 16. Библиотеки для работы с ресурсами 1.1*
+- [16.1 Домашнее задание по теме "Основы Fast Api и маршрутизация"](https://github.com/allabergenovvyacheslav/module_16/blob/main/module_16_1.py)
+- [16.2 Домашнее задание по теме "Валидация данных".](https://github.com/allabergenovvyacheslav/module_16/blob/main/module_16_2.py)
+- [16.3 Домашнее задание по теме "CRUD Запросы: Get, Post, Put Delete."](https://github.com/allabergenovvyacheslav/module_16/blob/main/module_16_3.py)
+- [16.4 Домашнее задание по теме "Модели данных Pydantic"](https://github.com/allabergenovvyacheslav/module_16/blob/main/module_16_4.py)
+- [16.5 Домашнее задание по теме "Шаблонизатор Jinja 2. main.py"](https://github.com/allabergenovvyacheslav/module_16/blob/main/module_16_5.py)
+- [16.5 Домашнее задание по теме "Шаблонизатор Jinja 2. main.html"](https://github.com/allabergenovvyacheslav/module_16/blob/main/main.html)
+- [16.5 Домашнее задание по теме "Шаблонизатор Jinja 2. users.html"](https://github.com/allabergenovvyacheslav/module_16/blob/main/users.html)
