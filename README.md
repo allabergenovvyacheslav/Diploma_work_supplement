@@ -100,3 +100,9 @@
 - [16.5 Домашнее задание по теме "Шаблонизатор Jinja 2. main.py"](https://github.com/allabergenovvyacheslav/module_16/blob/main/module_16_5.py)
 - [16.5 Домашнее задание по теме "Шаблонизатор Jinja 2. main.html"](https://github.com/allabergenovvyacheslav/module_16/blob/main/main.html)
 - [16.5 Домашнее задание по теме "Шаблонизатор Jinja 2. users.html"](https://github.com/allabergenovvyacheslav/module_16/blob/main/users.html)
+### *Модуль 17. Библиотека для работы с ресурсами 2.1*
+- [17.1 Домашнее задание по теме "Структура проекта. Маршруты и модели Pydantic."](https://github.com/allabergenovvyacheslav/module_17/tree/master)
+- [17.2 Домашнее задание по теме "Модели SQLALchemy. Отношения между таблицами."](https://github.com/allabergenovvyacheslav/module_17_2/tree/master)
+- [17.3 Домашнее задание по теме "Миграции. Библиотека alembic."](https://github.com/allabergenovvyacheslav/module_17_3)
+- [17.4 Домашнее задание по теме "Использование БД в маршрутизации. 1.1"](https://github.com/allabergenovvyacheslav/module_17_4)
+- [17.5 Домашнее задание по теме "Использование БД в маршрутизации. 1.2"](https://github.com/allabergenovvyacheslav/module_17_4/tree/master/routers)
