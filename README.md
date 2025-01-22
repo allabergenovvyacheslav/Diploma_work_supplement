@@ -10,4 +10,5 @@
   <li><a href 'https://github.com/allabergenovvyacheslav/homework7/blob/main/module1hard.py'>1.7 Дополнительное практическое задание по модулю: "Базовые структуры данных."</a></li>
 </ul>
 <h3>Модуль 2. Основные операторы</h3>  
+[Домашняя работа по уроку "Условная конструкция. Операторы if, elif, else"](https://github.com/allabergenovvyacheslav/homework8/blob/main/main.py)
 
