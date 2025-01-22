@@ -106,3 +106,22 @@
 - [17.3 Домашнее задание по теме "Миграции. Библиотека alembic."](https://github.com/allabergenovvyacheslav/module_17_3)
 - [17.4 Домашнее задание по теме "Использование БД в маршрутизации. 1.1"](https://github.com/allabergenovvyacheslav/module_17_4)
 - [17.5 Домашнее задание по теме "Использование БД в маршрутизации. 1.2"](https://github.com/allabergenovvyacheslav/module_17_4/tree/master/routers)
+### *Модуль 18. Django. Представления и Шаблоны*
+- [18.1 Домашнее задание по теме "Установка Django и создание проекта."](https://github.com/allabergenovvyacheslav/Module_18_Django)
+- [18.2 Домашнее задание по теме "Urls и Views. Функциональное и классовое представление."](https://github.com/allabergenovvyacheslav/Module_18_Django/tree/master)
+- [18.3 Домашнее задание по теме "Базовые HTML тэги в шаблонах".](https://github.com/allabergenovvyacheslav/Module_18_Django/tree/master)
+- [18.4 Домашнее задание по теме "DTL. Теги, наследование."](https://github.com/allabergenovvyacheslav/Module_18_4_DTL_-_-)
+- [18.5 Домашнее задание по теме "Формы отправки данных. HTML и Django формы"](https://github.com/allabergenovvyacheslav/Module_18_5_HTML-Django)
+### *Модуль 19. Django в Python. Дополнительный модуль*
+- [19.1 Домашнее задание по теме "Модели баз данных в Django."](https://github.com/allabergenovvyacheslav/Module_19_1)
+- [19.2 Домашнее задание по теме "QuerySet запросы в базу данных"](https://github.com/allabergenovvyacheslav/Module_19_1)
+- [19.3 Домашнее задание по теме "MVT. Вывод объектов в шаблоны".](https://github.com/allabergenovvyacheslav/Module_19_1)
+- [19.4 Домашнее задание по теме "Сайт администрирования"](https://github.com/allabergenovvyacheslav/module_19_5/tree/master)
+- [19.5 Домашнее задание по теме "Пагинация"](https://github.com/allabergenovvyacheslav/module_19_5/tree/master)
+- [19.6 Домашнее задание по теме "Настраиваем СУБД postgre в django"](https://github.com/allabergenovvyacheslav/module_19_5/tree/master)
+### *Модуль 20. Дипломная работа*
+- [20.1 Дипломная работа Aiogram](https://github.com/allabergenovvyacheslav/D_aiogram_m_p)
+- [20.2 Дипломная работа FastAPI](https://github.com/allabergenovvyacheslav/Diploma_FastAPI)
+- [20.3 Дипломная работа Django](https://github.com/allabergenovvyacheslav/Diploma_Django)
+- [20.4 Приложение на Django.docx](https://github.com/allabergenovvyacheslav/Diploma_work_supplement)
+
