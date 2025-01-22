@@ -77,3 +77,12 @@
 - [13.5 Домашнее задание по теме "Клавиатура кнопок".](https://github.com/allabergenovvyacheslav/module_13/blob/main/telegram_bot_13_5.py)
 - [13.6 Домашнее задание по теме "Инлайн клавиатуры".](https://github.com/allabergenovvyacheslav/module_13/blob/main/telegram_bot_13_6.py)
 ### *Модуль 14. Библиотека для работы с данными*
+- [14.1 Домашнее задание по теме "Создание БД, добавление, выбор и удаление элементов."](https://github.com/allabergenovvyacheslav/module_14/blob/main/db_not_telegram.py)
+- [14.2 Домашнее задание по теме "Выбор элементов и функции в SQL запросах"](https://github.com/allabergenovvyacheslav/module_14/blob/main/db_not_telegram_2.py)
+- [14.3 Домашнее задание по теме "Доработка бота"](https://github.com/allabergenovvyacheslav/module_14/blob/main/module_14_3.py)
+- [14.4 Домашнее задание по теме "План написания админ панели - 1"](https://github.com/allabergenovvyacheslav/module_14/blob/main/module_14_4.py)
+- [14.4 Домашнее задание по теме "План написания админ панели - 2"](https://github.com/allabergenovvyacheslav/module_14/blob/main/crud_functions.py)
+- [14.5 Домашнее задание по теме "Написание примитивной ORM - 1"](https://github.com/allabergenovvyacheslav/module_14/blob/main/module_14_5.py)
+- [14.5 Домашнее задание по теме "Написание примитивной ORM - 2"](https://github.com/allabergenovvyacheslav/module_14/blob/main/crud_functions.py)
+### *Модуль 15. Нейронные сети и машинное зрение*
+- [15.1 Домашнее задание по теме "Знакомство и работа с GoogleColab"](https://colab.research.google.com/drive/1HmRXWlUzYnEg8l252cIDooPDEryCu47X?usp=sharing)
